@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Laravel**
 
 <h3 align="left">Connect with me:</h3>
-https://github.com/Zepartz
 <p align="left">
 </p>
 
